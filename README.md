@@ -5,4 +5,5 @@ The recommendations will contain recommendations for english and german, maybe i
 
 ## Content
 
-* [Podcasts](Podcasts.md)
+* [Podcasts](podcasts.md)
+* [Non-Fiction Books](non-fiction-books.md)
