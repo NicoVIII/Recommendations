@@ -1,7 +1,8 @@
 # Podcasts
 
 This page contains my recommendations for podcasts sorted by language.
-To consume podcasts on an Android phone I recommend [Antennapod](https://antennapod.org/）.
+
+To consume podcasts on an Android phone I recommend [Antennapod](https://antennapod.org/).
 
 ## English
 
