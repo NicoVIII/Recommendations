@@ -35,11 +35,13 @@ The two youtubers talk about random stuff. Sadly it was abandoned in the beginni
 
 ## Deutsch
 
-### Frag mal Agi
+### [Canceled] Frag mal Agi
 **Hosts:** Agi Malach, Lotte Kunath, (ehemals: Katrin Rönicke)  
 https://frag-mal-agi.de/
 
 Hier geht es um Sex und alles, was damit zutun haben kann. Dieser Podcast ist kindergerecht gestaltet und in diesem beantworten die beiden Sexualpädagoginnen Fragen ums Thema von Hörer:innen.
+
+Leider musste der Podcast Ende 2023 eingestellt werden.
 
 ### Logbuch: Netzpolitik
 **Hosts:** Tim Pritlove, Linus Neumann  
