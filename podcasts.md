@@ -35,7 +35,7 @@ The two youtubers talk about random stuff. Sadly it was abandoned in the beginni
 
 ## Deutsch
 
-### [Canceled] Frag mal Agi
+### [Eingestellt] Frag mal Agi
 **Hosts:** Agi Malach, Lotte Kunath, (ehemals: Katrin Rönicke)  
 https://frag-mal-agi.de/
 
