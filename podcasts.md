@@ -4,6 +4,9 @@ This page contains my recommendations for podcasts sorted by language.
 
 To consume podcasts on an Android phone I recommend [Antennapod](https://antennapod.org/).
 
+* [English](#english)
+* [Deutsch (German)](#deutsch)
+
 ## English
 
 ### Fake Doctors, Real Friends
@@ -30,7 +33,7 @@ http://www.hellointernet.fm/
 
 The two youtubers talk about random stuff. Sadly it was abandoned in the beginning of 2020 without further notice.
 
-## Deutsch (German)
+## Deutsch
 
 ### Frag mal Agi
 **Hosts:** Agi Malach, Lotte Kunath, (ehemals: Katrin Rönicke)  
