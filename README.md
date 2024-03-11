@@ -7,3 +7,4 @@ The recommendations will contain recommendations for english and german, maybe i
 
 * [Podcasts](podcasts.md)
 * [Non-Fiction Books](non-fiction-books.md)
+* [Adult Games](adult-games.md)
