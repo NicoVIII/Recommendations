@@ -15,12 +15,6 @@ https://www.iheart.com/podcast/1119-fake-doctors-real-friends-60367049/
 
 The two actors which gained much attention with the show scrubs rewatch the series episode for episode and talk about them. They often have guests from the crew and talk about how they perceived the creation of the show.
 
-### KNP Podcast - Kinky, Nerdy, Polyamorous
-**Hosts:** G, M  
-https://knppodcast.com/
-
-In this podcast the two hosts G and M talk about diverse topics out of the three categories: Kinky, Nerdy, Polyamorous.
-
 ### Radiolingo
 **Host:** Ahmed Ali Akbar  
 https://crooked.com/podcast-series/radiolingo/
