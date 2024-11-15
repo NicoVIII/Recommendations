@@ -45,7 +45,7 @@ Read more about it on https://syncthing.net/.
 
 ### [Desktop] Syncthing
 
-Simply simply use syncthing itself. It is managed via a web interface. The url to that is a bookmark
+Simply use syncthing itself. It is managed via a web interface. The url to that is a bookmark
 in my browser.
 
 ### [iOS] Möbius Sync
@@ -61,4 +61,20 @@ for me and this allows me to do that.
 
 > ⚠️ This application will sadly be retired starting december 2024.
 
+* GitHub: https://github.com/syncthing/syncthing-android
 
+## Backup
+
+I do incremental backups into the cloud with the help of restic. I use it to backup important files
+from the network and the sync folders. I use it exclusively on the command line on the linux desktop.
+
+* Website: https://restic.net/
+
+## Cloud Communication
+
+I use cloud services for backups and storage of some files. To put files there in a secure way I use
+rclone. With this tool you can interact with your cloud storage and put some additional storage
+modifiers on top which allow to e.g. encrypt and chunk your data. I use it exclusively on the command
+line on the linux desktop.
+
+* Website: https://rclone.org/
