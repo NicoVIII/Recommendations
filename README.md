@@ -5,6 +5,7 @@ The recommendations will contain recommendations for english and german, maybe i
 
 ## Content
 
+* [App(lication)s](applications.md)
 * [Podcasts](podcasts.md)
 * [Non-Fiction Books](non-fiction-books.md)
 * [Adult Games](adult-games.md)
