@@ -1,13 +1,10 @@
 # Applications
 
-This page contains my recommendations for applications / apps on desktop and mobile devices.
-I divided them by use case and for some I provide different alternatives for different platforms.
+This page contains my recommendations for applications / apps on desktop and mobile devices. I divided them by use case and for some I provide different alternatives for different platforms.
 
 ## Password Manager
 
-I use `pass` exclusively to manage my password. It is a simple but elegant password manager for
-tech-savvy people and uses battle-tested technologies like git and PGP. More information about
-this you can find on https://www.passwordstore.org/.
+I use `pass` exclusively to manage my password. It is a simple but elegant password manager for tech-savvy people and uses battle-tested technologies like git and PGP. More information about this you can find on https://www.passwordstore.org/.
 
 There are many clients and GUIs for different plattforms, I used the following ones:
 
@@ -20,9 +17,7 @@ There are many clients and GUIs for different plattforms, I used the following o
 
 ### [iOS] Pass for iOS
 
-It is a bit complicated to set this up, because you have to generate the ssh key on a different
-device and then transfer the private key to you device somehow. The same is true for the pgp key.
-But after that it integrates nicely into the system.
+It is a bit complicated to set this up, because you have to generate the ssh key on a different device and then transfer the private key to you device somehow. The same is true for the pgp key. But after that it integrates nicely into the system.
 
 * Website: https://mssun.github.io/passforios/
 * GitHub: https://github.com/mssun/passforios
@@ -39,20 +34,15 @@ But after that it integrates nicely into the system.
 
 ## File Syncing
 
-I prefer to have my files locally and not in the cloud per default. Therefore I use an approach to
-keep my devices in sync with each other. I use Syncthing for this.
-Read more about it on https://syncthing.net/.
+I prefer to have my files locally and not in the cloud per default. Therefore I use an approach to keep my devices in sync with each other. I use Syncthing for this. Read more about it on https://syncthing.net/.
 
 ### [Desktop] Syncthing
 
-Simply use syncthing itself. It is managed via a web interface. The url to that is a bookmark
-in my browser.
+Simply use syncthing itself. It is managed via a web interface. The url to that is a bookmark in my browser.
 
 ### [iOS] Möbius Sync
 
-This app costs a bit of money, if you want to use it effectively, but until now I didn't have any
-problems with it and it is worth the one-time payment imho, because syncing stuff is quite important
-for me and this allows me to do that.
+This app costs a bit of money, if you want to use it effectively, but until now I didn't have any problems with it and it is worth the one-time payment imho, because syncing stuff is quite important for me and this allows me to do that.
 
 * Website: https://mobiussync.com/
 * App Story: https://apps.apple.com/us/app/m%C3%B6bius-sync/id1539203216
@@ -65,16 +55,12 @@ for me and this allows me to do that.
 
 ## Backup
 
-I do incremental backups into the cloud with the help of restic. I use it to backup important files
-from the network and the sync folders. I use it exclusively on the command line on the linux desktop.
+I do incremental backups into the cloud with the help of restic. I use it to backup important files from the network and the sync folders. I use it exclusively on the command line on the linux desktop.
 
 * Website: https://restic.net/
 
 ## Cloud Communication
 
-I use cloud services for backups and storage of some files. To put files there in a secure way I use
-rclone. With this tool you can interact with your cloud storage and put some additional storage
-modifiers on top which allow to e.g. encrypt and chunk your data. I use it exclusively on the command
-line on the linux desktop.
+I use cloud services for backups and storage of some files. To put files there in a secure way I use rclone. With this tool you can interact with your cloud storage and put some additional storage modifiers on top which allow to e.g. encrypt and chunk your data. I use it exclusively on the command line on the linux desktop.
 
 * Website: https://rclone.org/
