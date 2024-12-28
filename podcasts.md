@@ -15,9 +15,9 @@ https://www.iheart.com/podcast/1119-fake-doctors-real-friends-60367049/
 
 The two actors which gained much attention with the show scrubs rewatch the series episode for episode and talk about them. They often have guests from the crew and talk about how they perceived the creation of the show.
 
-### Radiolingo
+### [Ended?] Radiolingo
 **Host:** Ahmed Ali Akbar  
-https://crooked.com/podcast-series/radiolingo/
+https://www.crooked.com/podcast-series/radiolingo/
 
 This is nicely produced podcast, which deals with language and linguistic and looks at different topics around that.
 
