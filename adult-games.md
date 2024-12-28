@@ -1,6 +1,6 @@
 # Adult Games
 
-This page contains my recommendations for adult games. This means that these games contain sexual content and is only suitable for adults.
+This page contains my recommendations for adult games. This means that these games contain sexual content and are only suitable for adults.
 
 ### Acting Lessons (2018)
 
