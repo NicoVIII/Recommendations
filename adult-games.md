@@ -20,6 +20,18 @@ This page contains my recommendations for adult games. This means that these gam
 **Other Links**
 * [Patreon of Creator](https://www.patreon.com/DrPinkCake)
 
+### Good Girl Gone Bad (2021)
+
+* Many meaningful decisions
+* Female protagonist
+* Creator: Eva Kiss
+
+**Store Links**
+* [Itch](https://eva-kiss.itch.io/good-girl-gone-bad)
+
+**Other Links**
+* [Patreon of Creator](https://www.patreon.com/Evakiss)
+
 ### Once in a Lifetime (2021)
 
 * Meaningful decisions
